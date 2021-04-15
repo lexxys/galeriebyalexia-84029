@@ -11,6 +11,10 @@ params:
     has_social: true
     social_links: []
     type: header
+  footer:
+    content: lorem-ipsum
+    links: []
+    type: footer
 taxonomies:
   stub: stub
 disableKinds:
