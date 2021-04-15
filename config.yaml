@@ -2,6 +2,15 @@ baseURL: /
 params:
   palette: yellow
   domain: 'https://galeriebyalexia-84029.netlify.app'
+  header:
+    title: lorem-ipsum
+    tagline: lorem-ipsum
+    logo_img_alt: lorem-ipsum
+    has_nav: true
+    nav_links: []
+    has_social: true
+    social_links: []
+    type: header
 taxonomies:
   stub: stub
 disableKinds:
