@@ -1,7 +1,7 @@
 ---
 title: En savoir plus sur moi !
 subtitle: Une courte page pour me présenter
-img_path: images/about.jpg
+img_path: images/Alexia Chauvry.jpeg
 seo:
   title: About Me
   description: A page about me and my work
